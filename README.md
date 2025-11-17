@@ -1,15 +1,14 @@
 ## s16dih
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/958708562035638362)](https://discord.com/users/958708562035638362)
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,astro,discord&perline=8)](https://skillicons.dev)
-## most useful project (for me and also its personal use 3rd party tool)
-[s16api](https://github.com/s16org/s16.api)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,discord&perline=8)](https://skillicons.dev)
 
-[htmlium](https://github.com/gustambolopez/htmlium)
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustambolopez&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustambolopez&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<http://s16.outbrowsed.xyz>
 ## Contact
 discord: s16dih
