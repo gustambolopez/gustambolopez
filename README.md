@@ -1,6 +1,6 @@
 ## s16dih
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/958708562035638362)](https://discord.com/users/958708562035638362)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1400491046445777008)](https://discord.com/users/1400491046445777008)
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,discord&perline=8)](https://skillicons.dev)
